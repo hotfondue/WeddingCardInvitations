@@ -17,15 +17,15 @@ STEPS:
 6. Open anaconda console. Run the following commands:
 
 ```bash
-	conda create --name wedding_invitations
-	conda activate wedding_invitations
-	cd <path_to_WeddingCardInvitation_folder>
-	conda install pillow pandas reportlab
-	conda install -c conda-forge selenium
-	pip install PyPDF2
-	pip install openpyxl
+conda create --name wedding_invitations
+conda activate wedding_invitations
+cd <path_to_WeddingCardInvitation_folder>
+conda install pillow pandas reportlab
+conda install -c conda-forge selenium
+pip install PyPDF2
+pip install openpyxl
 ```
 8. Run the following to execute your script:
 ```bash
-	python generate_cards.py
+python generate_cards.py
 ```
