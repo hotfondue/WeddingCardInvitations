@@ -1,11 +1,17 @@
 # WeddingCardInvitations
 A simple script for populating and sharing wedding invitations over whatsapp based on an excel tracker.
-#This script is designed to suit my personal prefernces and will need to be edited to suit yours.
-#This script will help you auto-populate your wedding cards and share them over whatsapp.
-#I have designed this keeping Indian weddings in mind, wherein we have multiple functions and multiple guests. But not every guest is invited to every function.
-#These can be printed from the output folder or sent over whatsapp as an e-invitation.
-#You will need a pdf card template and an excel tracker in the same format as given.
-#You can edit the python script according to the columns in your tracker, your conditions and the coords where you want to print your text within your template.  
+
+This script is designed to suit my personal prefernces and will need to be edited to suit yours.
+
+This script will help you auto-populate your wedding cards and share them over whatsapp.
+
+I have designed this keeping Indian weddings in mind, wherein we have multiple functions and multiple guests. But not every guest is invited to every function.
+
+These can be printed from the output folder or sent over whatsapp as an e-invitation.
+
+You will need a pdf card template and an excel tracker in the same format as given.
+
+You can edit the python script according to the columns in your tracker, your conditions and the coords where you want to print your text within your template.  
 
 STEPS:
 
