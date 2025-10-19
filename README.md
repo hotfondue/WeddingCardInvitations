@@ -29,7 +29,7 @@ conda install -c conda-forge selenium
 pip install PyPDF2
 pip install openpyxl
 ```
-8. Run the following to execute your script:
+8. Now run the following to execute your script:
 ```bash
 python generate_cards.py
 ```
