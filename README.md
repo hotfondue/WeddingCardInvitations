@@ -1,7 +1,7 @@
 # WeddingCardInvitations
 ## A simple script for populating and sharing wedding invitations over whatsapp based on an excel tracker.
 
-_This script is designed to suit my personal prefernces and will need to be edited to suit yours._
+_This script is designed to suit my personal prefernces. I welcome you to fork and edit it to suit yours._
 
 This repo is designed keeping Indian/large weddings in mind, wherein you have multiple functions and multiple guests. But not every guest is invited to every function. This is a means to auto-populate and digitally share your invitations. 
 
@@ -10,11 +10,12 @@ You can edit the python script according to the columns in your tracker, your co
 STEPS:
 
 1. Unzip WeddingCardInvitation.zip. 
-2. Replace 'shaadi_invitation_template.pdf' with your card template, and the coords in the script accordingly.
+2. Replace 'shaadi_invitation_template.pdf' with your card template.
 3. Replace 'shaadi_guest_list.xlsx' with your tracker. This tracker must be pre filled with your guest details.
 4. Install google chrome and replace 'chromedriver.exe' with the chromdriver matching your chrome version if needed.
-5. Download python and install pip or conda. Im using conda.
-6. Open anaconda console. Run the following commands:
+5. Update the python script with your chromedriver path, your tracker columns, your conditions and the coords where you want to print your text within your template.  
+6. Download python and install pip or conda. Im using conda.
+7. Open anaconda console. Run the following commands:
 
 ```bash
 conda create --name wedding_invitations
