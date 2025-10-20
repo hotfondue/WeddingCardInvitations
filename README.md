@@ -3,7 +3,7 @@
 
 _This script is designed to suit my personal prefernces. I welcome you to fork and edit it to suit yours._
 
-This repo is designed keeping Indian/large weddings in mind, wherein you have multiple functions and multiple guests. But not every guest is invited to every function. This is a means to auto-populate and digitally share your invitations. 
+This project is designed keeping Indian/large weddings in mind, wherein you have multiple functions and multiple guests. But not every guest is invited to every function. This is a means to auto-populate and digitally share your invitations. 
 
 
 STEPS:
